@@ -12,7 +12,7 @@
 
 ## Описание процесса тестирования
 
-В качестве тестовых данных использовались данные ** [test data](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)**.
+В качестве тестовых данных использовались данные **[test data](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)**.
 
 Тестирование производилось в следующем окружении:
 * Windows 10, 64 бит
